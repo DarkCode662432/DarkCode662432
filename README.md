@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarkCode662432
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning full stack devolopment
+- 🌱 I’m currently learning front-end devolopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me {ff9371668@gmail.com, 01001055935}
 
