@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a problem solver and front-end developer passi
 ## Let's Connect!
 
 - 📫 You can reach me at **ff9371668@gmail.com** or on my mobile: **+201001055935**.
-- 🔗 Connect with me on [LinkedIn]([your-linkedin-profile-link](https://www.linkedin.com/in/faisal-faisal-7a9a0927a)) for more professional interactions.
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/faisal-faisal-7a9a0927a) for more professional interactions.
 
 ## Skills and Tools
 
