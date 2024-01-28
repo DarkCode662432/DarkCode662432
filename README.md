@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @DarkCode662432
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning front-end devolopment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me {ff9371668@gmail.com, +201001055935}
+# 👋 Hello, I'm Faisal Ibrahim
 
-<!---
-DarkCode662432/DarkCode662432 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a problem solver and front-end developer passionate about building user-friendly and visually appealing web applications.
+
+## About Me
+
+- 🌐 I'm currently honing my skills in **Front-End Development** and solving problems through coding competitions.
+- 👀 I have a keen interest in **Web Technologies**, **UI/UX Design**, and **Competitive Programming**.
+- 🏆 I've participated in and shared my solutions with the **ECPC (Egyptian Collegiate Programming Contest)** competition.
+
+## Collaboration and Projects
+
+- 💞️ I'm open to collaborating on exciting front-end projects, particularly those focused on creating intuitive user experiences.
+- 🌟 I'm currently working on a few personal projects. Feel free to check them out [here](link-to-your-projects).
+
+## Let's Connect!
+
+- 📫 You can reach me at **ff9371668@gmail.com** or on my mobile: **+201001055935**.
+- 🔗 Connect with me on [LinkedIn](your-linkedin-profile-link) for more professional interactions.
+
+## Skills and Tools
+
+### Languages:
+- C / C++ / Python / Java / C# / Bash Script
+
+### Frameworks/Libraries:
+- React
+- Bootstrap
+- Tailwind CSS
+- Libraries for React
+- etc...
+
+### Tools:
+- ChatGPT (for AI-powered text generation and some help)
+- Git / GitHub
+- Visual Studio Code
+  
+## You Are Visitor Number: 
+![Visitor Count](https://profile-counter.glitch.me/DarkCode662432/count.svg)
+
+---
