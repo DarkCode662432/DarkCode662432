@@ -11,12 +11,12 @@ Welcome to my GitHub profile! I'm a problem solver and front-end developer passi
 ## Collaboration and Projects
 
 - 💞️ I'm open to collaborating on exciting front-end projects, particularly those focused on creating intuitive user experiences.
-- 🌟 I'm currently working on a few personal projects. Feel free to check them out [here](link-to-your-projects).
+- 🌟 I'm currently working on a few personal projects. Feel free to check them out [here](/).
 
 ## Let's Connect!
 
 - 📫 You can reach me at **ff9371668@gmail.com** or on my mobile: **+201001055935**.
-- 🔗 Connect with me on [LinkedIn](your-linkedin-profile-link) for more professional interactions.
+- 🔗 Connect with me on [LinkedIn]([your-linkedin-profile-link](https://www.linkedin.com/in/faisal-faisal-7a9a0927a)) for more professional interactions.
 
 ## Skills and Tools
 
