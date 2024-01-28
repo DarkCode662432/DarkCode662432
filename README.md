@@ -21,7 +21,15 @@ Welcome to my GitHub profile! I'm a problem solver and front-end developer passi
 ## Skills and Tools
 
 ### Languages:
-- C / C++ / Python / Java / C# / Bash Script
+- HTML
+- CSS
+- JavaScript
+- C
+- C++
+- Python
+- Java
+- C#
+- Bash Script
 
 ### Frameworks/Libraries:
 - React
