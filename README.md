@@ -8,7 +8,7 @@
 <h1 align="center">Hi, I'm Faisal Ibrahim</h1>
 <h3 align="left">Software Engineer from Egypt</h3>
 
-<p>🟡ECPC Compatitor</p>
+<p>🟡ECPC Competitor</p>
 <p>🟡RUST Developer</p>
 
 <h3 align="left">Connect with me:</h3>
