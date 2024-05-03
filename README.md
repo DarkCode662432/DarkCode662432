@@ -1,30 +1,27 @@
-  [![committers.top badge](https://user-badge.committers.top/egypt/devbn3li.svg)](https://user-badge.committers.top/egypt/devbn3li)
-  <br><br>
 **You are the visitor number:**
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:devbn3li"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@DarkCode662432"></a>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="100"/>
 </p>
 
-<h1 align="center">Hi, I'm Mohamed Ali</h1>
+<h1 align="center">Hi, I'm Faisal Ibrahim</h1>
 <h3 align="left">Software Engineer from Egypt</h3>
-<img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s" width=150px align="right"/>
-  
-<p>🟡Beta Microsoft Learn Student Ambassador</p>
-<p>🟡ALX Fellowship Ambassador</p>
+
+<p>🟡ECPC Compatitor</p>
+<p>🟡RUST Developer</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devbn3lii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devbn3li" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/devbn3li/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devbn3li" height="30" width="40" /></a>
+<a href="https://twitter.com/DarkCode662432" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Faisal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/faisal-ibrahim-tawfeek" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="FaisalIbrahim" height="30" width="40" /></a>
 </p>
 
 <h3>My Tools:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/devbn3li/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,bash,nginx,git,html,css,js,react,postman,tailwind,vercel,py,flask,c,vim,emacs,vscode,discord" />
+  <a href="https://www.linkedin.com/in/faisal-ibrahim-tawfeek/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=rust,yew,wasm,linux,kali,debian,ubuntu,windows,bash,git,github,npm,yarn,html,svg,css,js,ts,regex,react,vite,postman,tailwind,bootstrap,vercel,py,qt,flask,c,cpp,cs,java,vscode,atom,pycharm,codepen,figma,unrealengine,unity,linkedin,materialui,firebase,powershell,discord,docker,md,blender,gmail" />
   </a>
 </p>
   
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=devbn3li&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=DarkCode662432&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
