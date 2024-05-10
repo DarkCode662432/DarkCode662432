@@ -14,12 +14,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/DarkCode662432" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Faisal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/faisal-ibrahim-tawfeek" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="FaisalIbrahim" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/FaisalIbrahim404" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="FaisalIbrahim" height="30" width="40" /></a>
 </p>
 
 <h3>My Tools:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/faisal-ibrahim-tawfeek/" target="_blank">
+  <a href="https://www.linkedin.com/in/FaisalIbrahim404" target="_blank">
     <img src="https://skillicons.dev/icons?i=rust,yew,wasm,linux,kali,debian,ubuntu,windows,bash,git,github,npm,yarn,html,svg,css,js,ts,regex,react,vite,postman,tailwind,bootstrap,vercel,py,qt,flask,c,cpp,cs,java,vscode,atom,pycharm,codepen,figma,unrealengine,unity,linkedin,materialui,firebase,powershell,discord,docker,md,blender,gmail" />
   </a>
 </p>
